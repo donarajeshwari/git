@@ -1,0 +1,11 @@
+let num1=20;
+let num2=30;
+let result;
+result=num1+num2;
+let res =num1-num2;
+let mul=num1*num2;
+let div = num1/num2;
+console.log("division of two numbers is :" + div);
+console.log("multiplicatin of two numbets:" + mul);
+console.log("substrction of two numbers is:" + res);
+console.log("sum of two numbers is :" + result);

@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    color: blue;
+}
+.login-div,.signup-div{
+    border: 2px solid wheat;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    border-color: black;
+}
+.signup-div{
+    background-color:lightcoral ;
+}
+.login-div{
+    background-color: darkgray;
+}
+a{
+    color: brown;
+}
+ul li{
+    padding: 40px;
+    display: inline;
+    font-weight: bold;
+    font-size: large;
+}
